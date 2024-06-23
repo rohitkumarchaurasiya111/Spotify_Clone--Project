@@ -52,7 +52,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Spotify-Clone.git
+   git clone https://github.com/rohitkumarchaurasiya111/Spotify_Clone--Project.git
    ```
 2. Navigate to the project directory:
    ```bash
