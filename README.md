@@ -11,7 +11,6 @@ This project is a clone of the Spotify web player, created using HTML and CSS. T
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
-- [License](#license)
 
 ## Overview
 
@@ -78,3 +77,6 @@ You can also use a live server extension in your code editor to serve the files 
 
 - Fonts: [Google Fonts - Montserrat](https://fonts.google.com/specimen/Montserrat)
 - Icons: [Font Awesome](https://fontawesome.com/)
+
+## Contributions
+Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!
