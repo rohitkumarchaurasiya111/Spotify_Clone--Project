@@ -11,6 +11,7 @@ This project is a clone of the Spotify web player, created using HTML and CSS. T
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
+- [Contributions](#contributions)
 
 ## Overview
 
